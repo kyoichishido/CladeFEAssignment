@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  height: vh;
+  width: 100%;
+  background: rgba(252, 252, 252, 1);
+}
