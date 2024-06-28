@@ -44,7 +44,7 @@ const Navbar = () => {
         {/* profile */}
         <div className='flex gap-4'>
           <img src={bellIcon} width={23} height={25} className='object-contain cursor-pointer' alt='notification'/>
-          <img src={avatarImg} width={40} height={40} className='object-contain cursor-pointer' alt='companylogo'/>
+          <img src={avatarImg} width={40} height={40} className=' rounded-full object-contain cursor-pointer' alt='companylogo'/>
           <img src={dropDownIcon} width={20} height={20} className='object-contain cursor-pointer' alt='dropdown menu'/>
         </div>
       </div>

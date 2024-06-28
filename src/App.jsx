@@ -1,8 +1,5 @@
 import { useState } from 'react'
-import Nav from './Components/Nav'
 import Navbar from './Components/NavBar'
-import Siderbar from './Components/Sidebar'
-import JobPreview from './Components/JobPreview'
 import Body from './Components/Body'
 import TabHeader from './Components/TabHeader'
 
